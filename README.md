@@ -42,3 +42,12 @@ Après avoir lu l’appel à projets, voici les différentes étapes que vous av
 - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
 - Effectuer une analyse statistique univariée
 - Effectuer des opérations de nettoyage sur des données structurées
+
+
+# Idée d'application
+L'idée d'application, avec test de faisabilité, portera sur une aide aux personnes atteintes de L’homocystinurie.
+
+**L'homocystinurie** (déficit en cystathione bêtasynthase) est une maladie génétique rare, grave, évolutive, associée à un risque de morbidité et de mortalité élevé. Elle est caractérisée par un retard mental, des atteintes oculaires (subluxation du cristallin, cataracte, etc.), squelettiques, psychiatriques, et par un risque majeur d'accidents vasculaires thromboemboliques artériels ou veineux.
+En effet ces personnes doivent suivre un régime hypoprotidique très strict et quotidien tout en suivant une alimentation saine et équilibrée
+
+L'application sera un moteur de recommandation : à partir de la recherche d'un produit, la liste des produits les plus sains, classés par le nombre de g de protéines le plus faible possible sera proposée, après interrogation de la base de données d'Open Food Facts.
